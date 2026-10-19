@@ -23,3 +23,6 @@ Jika belum punya aplikasinya, silakan unduh terlebih dahulu:
 * Terakhir, tinggal klik tombol **Accept and Install**.
 
 Sekarang mod sudah aktif dan langsung bisa kamu gunakan tanpa perlu restart!
+
+Jangan lupa kasih stars ya :D
+@sharexza
