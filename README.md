@@ -1,8 +1,8 @@
 # Multi PrintScreen (Windhawk Mod)
 
-Mod Windhawk kustom untuk mempercepat proses dokumentasi dan troubleshoot. Nggak perlu lagi ribet copy-paste screenshot satu per satu atau buka menu Win+V secara manual untuk melampirkan banyak gambar ke AI.
+Mod Windhawk kustom untuk mempercepat proses dokumentasi dan troubleshoot. Nggak perlu lagi ribet copy-paste screenshot satu per satu atau buka menu Win+V secara manual untuk melampirkan banyak gambar ke AI atau aplikasi lain yang perlu attachment.
 
-Tinggal jepret screenshot beberapa kali berturut-turut, lalu pencet Ctrl+V berulang kali. Hasil screenshot akan keluar bergantian dari yang paling pertama diambil (FIFO).
+Tinggal jepret screenshot beberapa kali berturut-turut, lalu pencet Ctrl+V berulang kali. Hasil screenshot akan keluar bergantian dari yang paling pertama diambil (FIFO). Bisa diatur jumlah maksimal screenshotnya sesuai yang diinginkan lewat mod settings Windhawk.
 
 ---
 
